@@ -6,7 +6,7 @@ tags:
   - travel-journal
 ---
 
-# {{date}} — 
+# {{date}}
 
 ## The day
 
